@@ -1,0 +1,46 @@
+Quick Reference    / Legend 
+
+Hyprland → Core compositor / tiling / effects
+
+Waybar + Eww → Bars, widgets, dashboards, status info
+
+Fuzzel / Anyrun → Launchers for Wayland
+
+Mako + swaylock-effects → Notifications & lockscreen
+
+Kvantum + Pywal + GTK CSS → Theme all apps, dynamic colors
+
+Kitty / WezTerm + Zsh + Starship → Terminal & shell setup
+
+Neovim / VS Code / JetBrains IDEs → Code editing with theming
+
+swww / Hyprpaper → Wallpapers, animated & static
+
+Glava / Conky / btop → Visual effects & system monitoring
+
+pyhyprland automation → Workspace rules, window assignments
+
+Keybindings & Gestures → Input customization
+
+
+
+
+
+
+
+
+
+
+
+| Layer                       | Examples from your list                    |
+| --------------------------- | ------------------------------------------ |
+| **Boot Layer**              | GRUB, Plymouth, systemd-boot, rEFInd       |
+| **Display Server**          | X11, Wayland                               |
+| **Compositor/Effects**      | Picom, Wayfire, Hyprland, KWin             |
+| **Window Management**       | i3, bspwm, Sway, KDE, GNOME, XFCE          |
+| **UI Theming**              | GTK, Qt, icons, cursors, fonts             |
+| **System Sounds**           | Custom alert sounds, login/logout sounds   |
+| **Terminal Aesthetics**     | Alacritty, Kitty, Zsh, Starship, bat, etc. |
+| **Application Customizing** | Firefox, mpv, VSCode, music players        |
+| **Hardware Integration**    | RGB control, laptop-specific features      |
+| **Automation Scripts**      | Cron, systemd timers, bash/Fish scripts    |
